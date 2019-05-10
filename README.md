@@ -1,2 +1,2 @@
-# qpage_npm
+# qpage
 A page npm plugin
